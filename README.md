@@ -19,4 +19,4 @@ Website Redesign
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mounika-t07/)
-* **GitHub:** [tmweb-tech](https://github.com/T-Mouni)
+* **GitHub:** [mouni](https://github.com/T-Mouni)
