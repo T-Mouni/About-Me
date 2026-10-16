@@ -1,22 +1,16 @@
-# Hi there, I'm Mounika T 👋
+# Hi, I'm Mounika 👋
 
-💻 **Web Developer**
+I build modern, mobile-friendly websites for businesses that want more customers.
 
-I'm a Web Developer focused on building modern, responsive websites for businesses.
+## What I build
+- Business websites
+- Landing pages
+- Website redesigns
 
-**What I do**
+## Projects
+- [Tirumala-Bakery](https://t-mouni.github.io/Tirumala-Bakery/) - A responsive website showcasing a bakery and sweets business.
 
-Business Website Design
-Responsive Web Development
-Front-End Development
-Website Redesign
+## Contact
+- Email: mouni.thummuru@gmail.com
 
-## 💻 My Projects
-
-* **[Sri Raghavendra Typing Institute](https://github.com/tmweb-tech/Sri-Raghavendra)** — A website presenting a typing institute's information, courses, timings, and contact details.
-* **[Tirumala Bakery & Sweets](https://github.com/tmweb-tech/tirumala-bakery)** — A website project for a local bakery and sweets business.
-
-## 🤝 Connect With Me
-
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mounika-t07/)
-* **GitHub:** [mouni](https://github.com/T-Mouni)
+Open for new projects.
